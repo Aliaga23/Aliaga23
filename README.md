@@ -8,15 +8,11 @@
 ---
 
 ## About Me
-I am a versatile full-stack developer and machine learning engineer with a strong passion for building intelligent, scalable, and user-centric systems. My expertise spans across web and mobile development, cloud deployment, data science, and artificial intelligence.
+I'm a full-stack developer and machine learning engineer with a strong passion for building intelligent, scalable, and user-centric systems. My expertise spans across web and mobile development, cloud deployment, data science, and artificial intelligence.
 
 I specialize in creating real-time collaborative applications, RESTful and GraphQL APIs, and modular backends using FastAPI, Node.js, and Django. On the frontend, I leverage modern frameworks like React, Angular, and Flutter to design interactive and intuitive interfaces.
 
 In the field of AI and Data Science, I work extensively with tools like TensorFlow, PyTorch, Scikit-learn, and MLflow to develop and deploy machine learning models, including deep learning architectures for computer vision and natural language processing. I also have experience with statistical analysis, time series forecasting, recommendation systems, and model interpretability.
-
-I enjoy building end-to-end MLOps pipelines, integrating model training, tracking, deployment, and monitoring using tools like Docker, Gunicorn, Redis, Nginx, and cloud services like AWS and Azure.
-
-I’m also experienced in designing secure authentication systems with JWT, real-time data sync with WebSockets and Socket.IO, and multi-tenant SaaS platforms using PostgreSQL and advanced database design.
 
 Currently, I'm focused on combining full-stack engineering with artificial intelligence to create next-generation applications that are intelligent, adaptive, and impactful.
 
