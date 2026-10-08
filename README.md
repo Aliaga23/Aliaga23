@@ -5,7 +5,6 @@ As an AI and automation engineer with full-stack development expertise, I build 
 
 I currently lead AI and automation initiatives, coordinating solution architecture, technical execution, and delivery with a development team. My work focuses on translating business needs into functional MVPs, designing scalable systems, and integrating applied AI into real-world processes.
 
-I specialize in automation and data-driven solutions using tools such as n8n and Make to build workflows, integrate external APIs, and reduce manual operational effort. I apply AI pragmatically by integrating machine learning models and LLM-based capabilities through Python APIs to streamline processes and support data-driven decision-making.
 
 **Contact:**
 - [LinkedIn](https://www.linkedin.com/in/arturo-aliagav)
